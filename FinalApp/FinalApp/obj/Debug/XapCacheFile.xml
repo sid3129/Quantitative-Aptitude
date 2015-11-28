@@ -1,0 +1,20 @@
+﻿<xapCache source="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\FinalApp\FinalApp\Bin\Debug\FinalApp_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="5/15/2015 12:19:43 PM">
+  <file source="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\FinalApp\FinalApp\obj\Debug\FinalApp.dll" archivePath="FinalApp.dll" lastWriteTime="5/15/2015 12:19:43 PM" />
+  <file source="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\FinalApp\FinalApp\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="5/9/2015 11:27:59 AM" />
+  <file source="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\FinalApp\FinalApp\Assets\icons\goto.png" archivePath="Assets\icons\goto.png" lastWriteTime="5/11/2015 1:41:41 PM" />
+  <file source="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\FinalApp\FinalApp\Assets\icons\hint.png" archivePath="Assets\icons\hint.png" lastWriteTime="5/11/2015 1:41:41 PM" />
+  <file source="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\FinalApp\FinalApp\Assets\icons\next.png" archivePath="Assets\icons\next.png" lastWriteTime="5/11/2015 1:41:41 PM" />
+  <file source="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\FinalApp\FinalApp\Assets\icons\prev.png" archivePath="Assets\icons\prev.png" lastWriteTime="5/11/2015 1:41:41 PM" />
+  <file source="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\FinalApp\FinalApp\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="5/9/2015 11:27:59 AM" />
+  <file source="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\FinalApp\FinalApp\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="5/9/2015 11:27:59 AM" />
+  <file source="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\FinalApp\FinalApp\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="5/9/2015 11:27:59 AM" />
+  <file source="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\FinalApp\FinalApp\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="5/9/2015 11:27:59 AM" />
+  <file source="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\FinalApp\FinalApp\Toolkit.Content\ApplicationBar.Cancel.png" archivePath="Toolkit.Content\ApplicationBar.Cancel.png" lastWriteTime="5/11/2015 1:03:56 PM" />
+  <file source="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\FinalApp\FinalApp\Toolkit.Content\ApplicationBar.Check.png" archivePath="Toolkit.Content\ApplicationBar.Check.png" lastWriteTime="5/11/2015 1:03:56 PM" />
+  <file source="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\FinalApp\FinalApp\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="5/11/2015 1:04:52 PM" />
+  <file source="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\FinalApp\FinalApp\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="5/9/2015 11:27:59 AM" />
+  <file source="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\FinalApp\FinalApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="5/9/2015 11:27:59 AM" />
+  <file source="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\FinalApp\packages\Coding4Fun.Toolkit.Controls.2.0.9\lib\windowsphone8\Coding4Fun.Toolkit.Controls.dll" archivePath="Coding4Fun.Toolkit.Controls.dll" lastWriteTime="5/11/2015 1:03:56 PM" />
+  <file source="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\FinalApp\packages\Coding4Fun.Toolkit.Controls.2.0.9\lib\windowsphone8\Coding4Fun.Toolkit.dll" archivePath="Coding4Fun.Toolkit.dll" lastWriteTime="5/11/2015 1:03:56 PM" />
+  <file source="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\FinalApp\FinalApp\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="5/10/2015 11:13:06 PM" />
+</xapCache>
